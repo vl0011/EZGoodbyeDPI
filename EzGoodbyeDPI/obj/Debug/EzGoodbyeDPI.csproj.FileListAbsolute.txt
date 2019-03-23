@@ -1,0 +1,10 @@
+C:\Users\신영수\source\repos\EzGoodbyeDPI\EzGoodbyeDPI\bin\Debug\EzGoodbyeDPI.exe.config
+C:\Users\신영수\source\repos\EzGoodbyeDPI\EzGoodbyeDPI\bin\Debug\EzGoodbyeDPI.exe
+C:\Users\신영수\source\repos\EzGoodbyeDPI\EzGoodbyeDPI\bin\Debug\EzGoodbyeDPI.pdb
+C:\Users\신영수\source\repos\EzGoodbyeDPI\EzGoodbyeDPI\obj\Debug\EzGoodbyeDPI.csprojAssemblyReference.cache
+C:\Users\신영수\source\repos\EzGoodbyeDPI\EzGoodbyeDPI\obj\Debug\EzGoodbyeDPI.Form1.resources
+C:\Users\신영수\source\repos\EzGoodbyeDPI\EzGoodbyeDPI\obj\Debug\EzGoodbyeDPI.Properties.Resources.resources
+C:\Users\신영수\source\repos\EzGoodbyeDPI\EzGoodbyeDPI\obj\Debug\EzGoodbyeDPI.csproj.GenerateResource.cache
+C:\Users\신영수\source\repos\EzGoodbyeDPI\EzGoodbyeDPI\obj\Debug\EzGoodbyeDPI.csproj.CoreCompileInputs.cache
+C:\Users\신영수\source\repos\EzGoodbyeDPI\EzGoodbyeDPI\obj\Debug\EzGoodbyeDPI.exe
+C:\Users\신영수\source\repos\EzGoodbyeDPI\EzGoodbyeDPI\obj\Debug\EzGoodbyeDPI.pdb

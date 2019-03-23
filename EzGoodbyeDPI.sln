@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzGoodbyeDPI", "EzGoodbyeDPI\EzGoodbyeDPI.csproj", "{413C27F9-C624-4835-A5FE-4449F7777E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{413C27F9-C624-4835-A5FE-4449F7777E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413C27F9-C624-4835-A5FE-4449F7777E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413C27F9-C624-4835-A5FE-4449F7777E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413C27F9-C624-4835-A5FE-4449F7777E03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B05361DC-177C-492D-B069-8C6EC10E2984}
+	EndGlobalSection
+EndGlobal
